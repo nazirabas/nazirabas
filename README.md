@@ -39,17 +39,18 @@ new Person({
 
 ```cmd
 Hi, I am Nazir Abbas, a Web Developer and SEO Specialist based in Dubai.
-I build premium websites, high-converting funnels and SEO systems for luxury brands
-across Dubai, Monaco, Ibiza and Malta. Yacht charters, private clinics, hospitality,
-perfume houses and boutique agencies.
-Stack: Next.js, React, TypeScript, Tailwind, Supabase, Postgres, Stripe, Vercel.
-Passionate about clean code, technical SEO and building things that convert.
+I build premium websites, high-converting funnels and SEO systems for
+luxury brands across Dubai, Monaco, Ibiza and Malta. Yacht charters,
+private clinics, hospitality, perfume houses and boutique agencies are
+my typical clients. Stack: Next.js, React, TypeScript, Tailwind, Supabase,
+Postgres, Stripe, Vercel. Passionate about clean code, technical SEO and
+building things that convert.
 
-Currently: Available for freelance and retainer work
-Timezone: Dubai (GMT+4), comfortable with EU and US business hours
-Languages: English, Urdu, Hindi
-Response time: within 24 hours, usually much sooner
-Ask me about: Next.js migrations, technical SEO audits, Stripe subscriptions,
+Currently  :  Available for freelance and retainer work
+Timezone   :  Dubai (GMT+4), comfortable with EU and US business hours
+Languages  :  English, Urdu, Hindi
+Response   :  Within 24 hours, usually much sooner
+Ask about  :  Next.js migrations, technical SEO audits, Stripe subscriptions,
               WhatsApp funnel design, luxury brand positioning
 ```
 
