@@ -168,7 +168,7 @@ Ask me about: Next.js migrations, technical SEO audits, Stripe subscriptions,
 <table>
 <tr>
 <td width="120" align="center" valign="top">
-<img src="./avatars/kristan.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Kristan D." />
+<img src="./avatars/kristan-2.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Kristan D." />
 </td>
 <td valign="top">
 
