@@ -165,6 +165,22 @@ _Most client repositories are private. Live site links and case studies availabl
 
 #
 
+# Open Source Starters 📦
+
+<div align="center">
+
+| Repo | What it does |
+|---|---|
+| [**nextjs-seo-starter**](https://github.com/nazirabas/nextjs-seo-starter) | Next.js 14 + TS + Tailwind with SEO baked in: metadata API, sitemap, robots, JSON-LD helpers. [Live demo](https://nextjs-seo-starter-mylssd0pw-elite-rentals-dubai.vercel.app) |
+| [**nextjs-luxury-yacht-template**](https://github.com/nazirabas/nextjs-luxury-yacht-template) | Premium single-page landing template for luxury service brands. JSON-driven, WhatsApp-first inquiries. |
+| [**nextjs-whatsapp-cta**](https://github.com/nazirabas/nextjs-whatsapp-cta) | Zero-dependency React components for WhatsApp CTAs with UTM tracking and GA4 click events. |
+| [**stripe-checkout-starter**](https://github.com/nazirabas/stripe-checkout-starter) | Next.js 14 + Stripe Checkout wired end-to-end with server actions, success and cancel pages. |
+| [**resend-transactional-emails-starter**](https://github.com/nazirabas/resend-transactional-emails-starter) | Next.js 14 + Resend + Zod contact form with notification and confirmation emails, HTML templates. |
+
+</div>
+
+#
+
 # Services I Offer 💼
 
 - 🚀 **Website Design and Development** for luxury and boutique brands
