@@ -168,7 +168,7 @@ Ask me about: Next.js migrations, technical SEO audits, Stripe subscriptions,
 <table>
 <tr>
 <td width="120" align="center" valign="top">
-<img src="https://ui-avatars.com/api/?name=Kristan+D&size=180&background=c9a961&color=0a0a0a&font-size=0.42&bold=true&rounded=true" width="90" alt="Kristan D." />
+<img src="./avatars/kristan.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Kristan D." />
 </td>
 <td valign="top">
 
@@ -180,7 +180,7 @@ Ask me about: Next.js migrations, technical SEO audits, Stripe subscriptions,
 </tr>
 <tr>
 <td width="120" align="center" valign="top">
-<img src="https://ui-avatars.com/api/?name=Hadi+R&size=180&background=0A66C2&color=ffffff&font-size=0.42&bold=true&rounded=true" width="90" alt="Hadi R." />
+<img src="./avatars/hadi.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Hadi R." />
 </td>
 <td valign="top">
 
@@ -192,7 +192,7 @@ Ask me about: Next.js migrations, technical SEO audits, Stripe subscriptions,
 </tr>
 <tr>
 <td width="120" align="center" valign="top">
-<img src="https://ui-avatars.com/api/?name=Mo+A&size=180&background=25D366&color=0a0a0a&font-size=0.42&bold=true&rounded=true" width="90" alt="Mo A." />
+<img src="./avatars/mo.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Mo A." />
 </td>
 <td valign="top">
 
@@ -204,7 +204,7 @@ Ask me about: Next.js migrations, technical SEO audits, Stripe subscriptions,
 </tr>
 <tr>
 <td width="120" align="center" valign="top">
-<img src="https://ui-avatars.com/api/?name=Mirza+H&size=180&background=D14836&color=ffffff&font-size=0.42&bold=true&rounded=true" width="90" alt="Mirza H." />
+<img src="./avatars/mirza.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Mirza H." />
 </td>
 <td valign="top">
 
