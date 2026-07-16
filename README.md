@@ -292,6 +292,9 @@ _Most client repositories are private. Live site links and case studies availabl
 <a href="https://wa.me/971501824077" target="_blank">
 <img src="https://img.shields.io/badge/Or%20chat%20on-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
 </a>
+<a href="https://ko-fi.com/nazirabbas" target="_blank">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="ko-fi" />
+</a>
 </div>
 <br/>
 
