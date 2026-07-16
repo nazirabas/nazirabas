@@ -21,7 +21,7 @@
 
 </h3>
 
-<img src="./public/nazir-yacht.gif" align="right" width="380" alt="Nazir working on the aft deck of a luxury yacht at golden hour" />
+<img src="./public/nazir-desk.gif" align="right" width="340" alt="Nazir at his ultrawide-monitor workstation" />
 
 ```js
 "use creativity";
