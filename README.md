@@ -4,6 +4,15 @@
 
 </h3>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nazirabas&color=FF6400&style=flat-square&label=Profile+Views)
+![Available](https://img.shields.io/badge/Status-Available%20for%20New%20Projects-25D366?style=flat-square)
+![Timezone](https://img.shields.io/badge/Timezone-GMT%2B4%20Dubai-0A66C2?style=flat-square)
+![Response](https://img.shields.io/badge/Response-within%2024h-orange?style=flat-square)
+
+</div>
+
 <h3 align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nazirabas&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
@@ -35,6 +44,13 @@ across Dubai, Monaco, Ibiza and Malta. Yacht charters, private clinics, hospital
 perfume houses and boutique agencies.
 Stack: Next.js, React, TypeScript, Tailwind, Supabase, Postgres, Stripe, Vercel.
 Passionate about clean code, technical SEO and building things that convert.
+
+Currently: Available for freelance and retainer work
+Timezone: Dubai (GMT+4), comfortable with EU and US business hours
+Languages: English, Urdu, Hindi
+Response time: within 24 hours, usually much sooner
+Ask me about: Next.js migrations, technical SEO audits, Stripe subscriptions,
+              WhatsApp funnel design, luxury brand positioning
 ```
 
 <br clear="right"/>
