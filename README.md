@@ -21,7 +21,7 @@
 
 </h3>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="380" />
+<img src="./public/nazir-office.png" align="right" width="380" alt="Nazir at his Dubai home office" />
 
 ```js
 "use creativity";
