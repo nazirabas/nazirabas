@@ -21,7 +21,7 @@
 
 </h3>
 
-<img src="./public/nazir-office.png" align="right" width="380" alt="Nazir at his Dubai home office" />
+<img src="./public/nazir-hero.gif" align="right" width="380" alt="Nazir working from his Dubai home office" />
 
 ```js
 "use creativity";
