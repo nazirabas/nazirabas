@@ -165,21 +165,56 @@ Ask me about: Next.js migrations, technical SEO audits, Stripe subscriptions,
 
 # What Clients Say
 
+<table>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://ui-avatars.com/api/?name=Kristan+D&size=180&background=c9a961&color=0a0a0a&font-size=0.42&bold=true&rounded=true" width="90" alt="Kristan D." />
+</td>
+<td valign="top">
+
 > "Working with Nazir as our SEO Manager for Elite Rentals Dubai has been a great experience. He significantly improved our website's visibility, optimized our rankings, and delivered strategies that brought measurable growth to our online presence. Nazir is professional, knowledgeable, and proactive in communicating progress and suggesting improvements. His dedication and expertise in SEO helped us attract more qualified traffic and strengthen our digital footprint. We highly recommend him for any SEO or digital marketing projects."
->
-> **Kristan D.** · CEO of Elite Rentals Dubai · *SEO Strategy & Management · Nov 2025*
+
+**Kristan D.** · CEO of Elite Rentals Dubai · *SEO Strategy & Management · Nov 2025*
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://ui-avatars.com/api/?name=Hadi+R&size=180&background=0A66C2&color=ffffff&font-size=0.42&bold=true&rounded=true" width="90" alt="Hadi R." />
+</td>
+<td valign="top">
 
 > "Working with Nazir on our website's SEO optimization was an excellent experience. He quickly understood our goals, improved our search visibility, and delivered measurable results. His communication was clear, and he handled everything with professionalism. I'm truly satisfied with the outcome and highly recommend his services."
->
-> **Hadi R.** · Web Developer · *Search Engine Optimization · Nov 2025*
+
+**Hadi R.** · Web Developer · *Search Engine Optimization · Nov 2025*
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://ui-avatars.com/api/?name=Mo+A&size=180&background=25D366&color=0a0a0a&font-size=0.42&bold=true&rounded=true" width="90" alt="Mo A." />
+</td>
+<td valign="top">
 
 > "Nazir is an excellent SEO Expert in Dubai. He was very kind, professional, and quick in his work. He went above and beyond by adding extra schemas and optimizing the text in the articles he wrote for us. Highly recommended for anyone looking for quality SEO content and reliable service."
->
-> **Mo A.** · Founder at AnchorsBook · *SEO Project · Nov 2025*
+
+**Mo A.** · Founder at AnchorsBook · *SEO Project · Nov 2025*
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://ui-avatars.com/api/?name=Mirza+H&size=180&background=D14836&color=ffffff&font-size=0.42&bold=true&rounded=true" width="90" alt="Mirza H." />
+</td>
+<td valign="top">
 
 > "I hired Nazir for SEO on my website after connecting with him through another platform. To keep things secure, we used Upwork for payments. He clearly understood all my requirements and delivered excellent results. His SEO work was better than I expected, and now I'm getting quality leads regularly. Nazir is professional, skilled, and easy to communicate with. He handled everything with care and showed strong expertise in SEO. I highly recommend working with him if you want real results and someone you can trust."
->
-> **Mirza H.** · CEO of Cyber Informatica · *SEO Project · May 2025*
+
+**Mirza H.** · CEO of Cyber Informatica · *SEO Project · May 2025*
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
