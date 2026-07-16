@@ -17,11 +17,11 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nazirabas&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=FF6400&center=true&width=700&lines=Web+Developer+and+SEO+Specialist;Building+premium+sites+for+luxury+brands;Next.js+%2B+React+%2B+TypeScript;Founder+of+Digi-Soft-Rank+Agency)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=FF6400&center=true&width=500&lines=Web+Developer+and+SEO+Specialist;Building+premium+sites+for+luxury+brands;Next.js+%2B+React+%2B+TypeScript;Founder+of+Digi-Soft-Rank+Agency)](https://git.io/typing-svg)
 
 </h3>
 
-<img src="./public/nazir-desk-wide.gif" align="right" width="400" alt="Nazir at his ultrawide-monitor workstation" />
+<img src="./public/nazir-desk-wide.gif" align="right" width="320" alt="Nazir at his ultrawide-monitor workstation" />
 
 ```js
 "use creativity";
@@ -93,6 +93,37 @@ Ask about  :  Next.js migrations, technical SEO audits, Stripe subscriptions,
     <th align="center">Backend</th>
     <th align="center">Databases</th>
     <th align="center">Cloud & DevOps</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TS" width="32" height="32"/>
+      <br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" height="32" style="background:#fff;border-radius:6px;padding:2px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="32" height="32"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="32" height="32" style="background:#fff;border-radius:6px;padding:2px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" width="32" height="32"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="32" height="32" style="background:#fff;border-radius:6px;padding:2px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="32" height="32"/>
+    </td>
+  </tr>
+  <tr>
     <th align="center">Frameworks</th>
     <th align="center">CMS & Payments</th>
     <th align="center">Tools & SEO</th>
@@ -100,49 +131,23 @@ Ask about  :  Next.js migrations, technical SEO audits, Stripe subscriptions,
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="32" height="32" style="background:#fff;border-radius:6px;padding:2px"/>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="32" height="32" style="background:#fff;border-radius:6px;padding:2px"/>
+      <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="32" height="32"/>
+      <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="32" height="32"/>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="32" height="32"/>
+      <img src="https://cdn.simpleicons.org/googleanalytics/E37400" alt="GA4" width="32" height="32"/>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="35" height="35"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
-      <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="35" height="35"/>
-      <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="35" height="35"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
-      <img src="https://cdn.simpleicons.org/googleanalytics/E37400" alt="GA4" width="35" height="35"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="32" height="32"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="32" height="32"/>
     </td>
   </tr>
 </table>
@@ -168,8 +173,8 @@ Ask about  :  Next.js migrations, technical SEO audits, Stripe subscriptions,
 
 <table>
 <tr>
-<td width="120" align="center" valign="top">
-<img src="./avatars/kristan-2.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Kristan D." />
+<td width="80" align="center" valign="top">
+<img src="./avatars/kristan-2.jpg" width="70" height="70" style="border-radius:50%;object-fit:cover" alt="Kristan D." />
 </td>
 <td valign="top">
 
@@ -180,8 +185,8 @@ Ask about  :  Next.js migrations, technical SEO audits, Stripe subscriptions,
 </td>
 </tr>
 <tr>
-<td width="120" align="center" valign="top">
-<img src="./avatars/hadi.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Hadi R." />
+<td width="80" align="center" valign="top">
+<img src="./avatars/hadi.jpg" width="70" height="70" style="border-radius:50%;object-fit:cover" alt="Hadi R." />
 </td>
 <td valign="top">
 
@@ -192,8 +197,8 @@ Ask about  :  Next.js migrations, technical SEO audits, Stripe subscriptions,
 </td>
 </tr>
 <tr>
-<td width="120" align="center" valign="top">
-<img src="./avatars/mo.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Mo A." />
+<td width="80" align="center" valign="top">
+<img src="./avatars/mo.jpg" width="70" height="70" style="border-radius:50%;object-fit:cover" alt="Mo A." />
 </td>
 <td valign="top">
 
@@ -204,8 +209,8 @@ Ask about  :  Next.js migrations, technical SEO audits, Stripe subscriptions,
 </td>
 </tr>
 <tr>
-<td width="120" align="center" valign="top">
-<img src="./avatars/mirza.jpg" width="90" height="90" style="border-radius:50%;object-fit:cover" alt="Mirza H." />
+<td width="80" align="center" valign="top">
+<img src="./avatars/mirza.jpg" width="70" height="70" style="border-radius:50%;object-fit:cover" alt="Mirza H." />
 </td>
 <td valign="top">
 
