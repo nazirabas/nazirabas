@@ -1,6 +1,6 @@
 <h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Web%20Developer%20and%20SEO%20Specialist&height=100&animation=twinkling&section=header&fontSize=32)
+![](https://capsule-render.vercel.app/api?type=waving&color=0f5132&text=Web%20Developer%20and%20SEO%20Specialist&height=140&animation=twinkling&section=header&fontSize=42&fontColor=ffffff&fontAlignY=38)
 
 </h3>
 
