@@ -153,6 +153,29 @@ Ask about  :  Next.js migrations, technical SEO audits, Stripe subscriptions,
   </tr>
 </table>
 
+# Certifications & Honors
+
+<div align="center">
+
+<a href="https://www.coursera.org/account/accomplishments/verify/XAC7ON0H4HJT" target="_blank">
+<img alt="Google Digital Marketing" src="https://img.shields.io/badge/Google-Foundations%20of%20Digital%20Marketing%20%26%20E--commerce-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+<a href="https://www.coursera.org/account/accomplishments/verify/TSAAWVR7WXSU" target="_blank">
+<img alt="Google Ads for Beginners" src="https://img.shields.io/badge/Google%20Ads-for%20Beginners-4285F4?style=for-the-badge&logo=googleads&logoColor=white" />
+</a>
+<a href="https://www.credly.com/badges/b92fcd5e-b1fb-4f3d-a276-f405abeb3b9f/public_url" target="_blank">
+<img alt="Credly Digital Marketing Learner 2025" src="https://img.shields.io/badge/Credly-Digital%20Marketing%20Learner%202025-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+<br/>
+<br/>
+<img alt="PEC Registered Engineer" src="https://img.shields.io/badge/PEC%20Registered%20Engineer-%23COMP%2F19512-006F5F?style=for-the-badge" />
+
+_Pakistan Engineering Council · Jan 2019 · via Balochistan University of Information Technology and Management Sciences_
+
+</div>
+
+#
+
 # GitHub Stats
 
 <p align="center">
