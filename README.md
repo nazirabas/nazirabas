@@ -163,6 +163,32 @@ Ask me about: Next.js migrations, technical SEO audits, Stripe subscriptions,
 
 #
 
+# What Clients Say
+
+> "Working with Nazir as our SEO Manager for Elite Rentals Dubai has been a great experience. He significantly improved our website's visibility, optimized our rankings, and delivered strategies that brought measurable growth to our online presence. Nazir is professional, knowledgeable, and proactive in communicating progress and suggesting improvements. His dedication and expertise in SEO helped us attract more qualified traffic and strengthen our digital footprint. We highly recommend him for any SEO or digital marketing projects."
+>
+> **Kristan D.** · CEO of Elite Rentals Dubai · *SEO Strategy & Management · Nov 2025*
+
+> "Working with Nazir on our website's SEO optimization was an excellent experience. He quickly understood our goals, improved our search visibility, and delivered measurable results. His communication was clear, and he handled everything with professionalism. I'm truly satisfied with the outcome and highly recommend his services."
+>
+> **Hadi R.** · Web Developer · *Search Engine Optimization · Nov 2025*
+
+> "Nazir is an excellent SEO Expert in Dubai. He was very kind, professional, and quick in his work. He went above and beyond by adding extra schemas and optimizing the text in the articles he wrote for us. Highly recommended for anyone looking for quality SEO content and reliable service."
+>
+> **Mo A.** · Founder at AnchorsBook · *SEO Project · Nov 2025*
+
+> "I hired Nazir for SEO on my website after connecting with him through another platform. To keep things secure, we used Upwork for payments. He clearly understood all my requirements and delivered excellent results. His SEO work was better than I expected, and now I'm getting quality leads regularly. Nazir is professional, skilled, and easy to communicate with. He handled everything with care and showed strong expertise in SEO. I highly recommend working with him if you want real results and someone you can trust."
+>
+> **Mirza H.** · CEO of Cyber Informatica · *SEO Project · May 2025*
+
+<div align="center">
+
+_More reviews on [Upwork](https://www.upwork.com/freelancers/~01b1ce3221e5cf0fa5)._
+
+</div>
+
+#
+
 # Featured Client Work
 
 <div align="center">
