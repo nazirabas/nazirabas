@@ -10,6 +10,7 @@
 ![Available](https://img.shields.io/badge/Status-Available%20for%20New%20Projects-25D366?style=flat-square)
 ![Timezone](https://img.shields.io/badge/Timezone-GMT%2B4%20Dubai-0A66C2?style=flat-square)
 ![Response](https://img.shields.io/badge/Response-within%2024h-orange?style=flat-square)
+![Dubai Weather](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwttr.in%2FDubai%3Fformat%3Dj1&label=Dubai&query=%24.current_condition%5B0%5D.temp_C&suffix=%C2%B0C&color=FF6400&style=flat-square)
 
 </div>
 
@@ -230,6 +231,39 @@ _More reviews on [Upwork](https://www.upwork.com/freelancers/~01b1ce3221e5cf0fa5
 
 #
 
+# Results
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### Elite Rentals Dubai
+
+**+340% organic traffic in 6 months**
+
+Ranking **#1** for _"vip yacht rental Dubai"_
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Elyon Himeros Funnel
+
+**4.2% conversion rate** on cold Meta traffic
+
+**$180 CAC** on high-ticket perfume launch
+
+</td>
+</tr>
+</table>
+
+_More case studies available on [Upwork](https://www.upwork.com/freelancers/~01b1ce3221e5cf0fa5) or on a [discovery call](https://cal.com/nazir-abbas)._
+
+</div>
+
+#
+
 # Featured Client Work
 
 <div align="center">
@@ -277,6 +311,69 @@ _Most client repositories are private. Live site links and case studies availabl
 - **Custom Web Apps** with auth, dashboards, payments and email
 - **Landing Pages and Funnels** built to convert paid traffic
 - **Automation and AI Agents** for repetitive marketing and ops work
+
+#
+
+# FAQ
+
+<details>
+<summary><strong>What's your typical engagement?</strong></summary>
+
+Project-based (1 to 3 months) for site builds and migrations, or ongoing retainer (3+ months minimum) for SEO. Every project starts with a paid discovery call to scope real numbers.
+
+</details>
+
+<details>
+<summary><strong>What are your rates?</strong></summary>
+
+Custom quote per scope. SEO retainers start at $2,000 per month. Website builds start at $3,000. Funnel projects start at $2,500. Book a 30 minute call for a real number tailored to your goals.
+
+</details>
+
+<details>
+<summary><strong>Do you prefer retainers or one-off projects?</strong></summary>
+
+Both. Retainers are preferred for SEO because the wins compound month over month. Projects are ideal for site builds, migrations, landing pages and funnel launches.
+
+</details>
+
+<details>
+<summary><strong>Which tools do you work with?</strong></summary>
+
+**Build:** Next.js, React, TypeScript, Tailwind, Supabase, Postgres, Stripe, Resend, Vercel, Cloudflare.  
+**SEO:** Ahrefs, Semrush, Google Search Console, Screaming Frog, PageSpeed Insights.  
+**Content and email:** Klaviyo, Resend, WordPress, Shopify.  
+**Automation:** Puppeteer, Python, Claude and OpenAI APIs.
+
+</details>
+
+<details>
+<summary><strong>What is your availability and timezone?</strong></summary>
+
+Based in Dubai (GMT+4). Comfortable overlapping EU business hours (2 to 6 hours earlier) and US East Coast hours (8 to 10 hours earlier). Response within 24 hours, usually much sooner.
+
+</details>
+
+<details>
+<summary><strong>Do you sign NDAs?</strong></summary>
+
+Yes, always. I can sign yours before the discovery call, or provide my standard NDA on request. All client work stays confidential by default.
+
+</details>
+
+<details>
+<summary><strong>Do you work with agencies as a white-label partner?</strong></summary>
+
+Yes. Agency partnerships available for SEO, Next.js dev and funnel work. Deliverables branded under your name.
+
+</details>
+
+<details>
+<summary><strong>What makes you different?</strong></summary>
+
+I do both sides. Most SEO specialists cannot build; most developers do not understand SEO fundamentals. I ship code that ranks, and I write content that converts. One person, one bill, no handoffs.
+
+</details>
 
 #
 
