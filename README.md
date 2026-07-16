@@ -21,7 +21,7 @@
 
 </h3>
 
-<img src="./public/nazir-desk-2.gif" align="right" width="400" alt="Nazir at his ultrawide-monitor workstation" />
+<img src="./public/nazir-desk-wide.gif" align="right" width="400" alt="Nazir at his ultrawide-monitor workstation" />
 
 ```js
 "use creativity";
