@@ -1,6 +1,6 @@
 <h3 align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Web%20Developer%20%26%20SEO%20Specialist%20🚀&height=100&animation=twinkling&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Web%20Developer%20and%20SEO%20Specialist&height=100&animation=twinkling&section=header&fontSize=32)
 
 </h3>
 
@@ -8,7 +8,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=nazirabas&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=FF6400&center=true&width=500&lines=Web+Developer+%26+SEO+Specialist+%E2%9A%A1;Building+premium+sites+for+luxury+brands+%F0%9F%9B%A5;Next.js+%2B+React+%2B+TypeScript+%E2%9D%A4%EF%B8%8F;Founder+of+Digi-Soft-Rank+Agency+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&color=FF6400&center=true&width=700&lines=Web+Developer+and+SEO+Specialist;Building+premium+sites+for+luxury+brands;Next.js+%2B+React+%2B+TypeScript;Founder+of+Digi-Soft-Rank+Agency)](https://git.io/typing-svg)
 
 </h3>
 
@@ -20,7 +20,7 @@ import { Person } from "Dubai";
 
 new Person({
   name: "Nazir Abbas",
-  title: "Web Developer & SEO Specialist",
+  title: "Web Developer and SEO Specialist",
   agency: "Digi-Soft-Rank",
   email: "nazirabbas1995@gmail.com",
   website: "https://www.linkedin.com/in/nazir-abbas/",
@@ -43,29 +43,29 @@ Passionate about clean code, technical SEO and building things that convert.
 
 <div align="center">
 
-# Let's Connect and have a Chat! 💬
+# Let's Connect
 
 <p align="center">
 <a href="https://github.com/nazirabas" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <a href="https://www.linkedin.com/in/nazir-abbas/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:nazirabbas1995@gmail.com" target="_blank">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-bottom: 5px;" />
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://wa.me/971501824077" target="_blank">
-<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 5px;" />
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://www.upwork.com/freelancers/~nazirabbas" target="_blank">
-<img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" style="margin-bottom: 5px;" />
+<img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 </p>
 
 </div>
 
-# Skill Set 🛠
+# Skill Set
 
 <table width="100%">
   <tr>
@@ -80,54 +80,55 @@ Passionate about clean code, technical SEO and building things that convert.
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="CSS" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="TypeScript" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/nextjs-original.svg" alt="Next.js" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vitejs.svg" alt="Vite" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="35" height="35"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/supabase-icon.svg" alt="Supabase" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Cloud/vercel-icon.svg" alt="Vercel" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Cloud/cloudflare.svg" alt="Cloudflare" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="35" height="35"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/electron-original-wordmark.svg" alt="Electron" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" alt="Electron" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/wordpress-icon.svg" alt="WordPress" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Ecommerce/shopify.svg" alt="Shopify" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Payment/stripe.svg" alt="Stripe" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="35" height="35" style="background:#fff;border-radius:6px;padding:2px"/>
+      <img src="https://cdn.simpleicons.org/shopify/7AB55C" alt="Shopify" width="35" height="35"/>
+      <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="35" height="35"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/google_analytics.svg" alt="GA4" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
+      <img src="https://cdn.simpleicons.org/googleanalytics/E37400" alt="GA4" width="35" height="35"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/photoshop-line.svg" alt="Photoshop" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/adobe_illustrator-icon%20(1).svg" alt="Illustrator" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="35" height="35"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="35" height="35"/>
     </td>
   </tr>
 </table>
 
-# GitHub Stats 📈
+# GitHub Stats
+
 <p align="center">
   <a href="https://github.com/nazirabas">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nazirabas&show_icons=true&rank_icon=github&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -143,7 +144,7 @@ Passionate about clean code, technical SEO and building things that convert.
 
 #
 
-# Featured Client Work 🏆
+# Featured Client Work
 
 <div align="center">
 
@@ -165,7 +166,7 @@ _Most client repositories are private. Live site links and case studies availabl
 
 #
 
-# Open Source Starters 📦
+# Open Source Starters
 
 <div align="center">
 
@@ -181,14 +182,14 @@ _Most client repositories are private. Live site links and case studies availabl
 
 #
 
-# Services I Offer 💼
+# Services I Offer
 
-- 🚀 **Website Design and Development** for luxury and boutique brands
-- 🔍 **Technical SEO Audits** with prioritized fix plans
-- 📈 **Ongoing SEO Retainers** covering content, links and monitoring
-- 💻 **Custom Web Apps** with auth, dashboards, payments and email
-- 🎯 **Landing Pages and Funnels** built to convert paid traffic
-- 🤖 **Automation and AI Agents** for repetitive marketing and ops work
+- **Website Design and Development** for luxury and boutique brands
+- **Technical SEO Audits** with prioritized fix plans
+- **Ongoing SEO Retainers** covering content, links and monitoring
+- **Custom Web Apps** with auth, dashboards, payments and email
+- **Landing Pages and Funnels** built to convert paid traffic
+- **Automation and AI Agents** for repetitive marketing and ops work
 
 #
 
@@ -205,7 +206,7 @@ _Most client repositories are private. Live site links and case studies availabl
 <br/>
 <div align="center">
 <a href="https://wa.me/971501824077" target="_blank">
-<img src="https://img.shields.io/badge/Let's%20Work%20Together-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Let's%20Work%20Together-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
 </a>
 </div>
 <br/>
