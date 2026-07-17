@@ -316,7 +316,7 @@ _Most client repositories are private. Live site links and case studies availabl
 |---|---|
 | [**nextjs-seo-starter**](https://github.com/nazirabas/nextjs-seo-starter) | Next.js 14 + TS + Tailwind with SEO baked in: metadata API, sitemap, robots, JSON-LD helpers. [Live demo](https://nextjs-seo-starter.vercel.app) |
 | [**nextjs-luxury-yacht-template**](https://github.com/nazirabas/nextjs-luxury-yacht-template) | Premium single-page landing template for luxury service brands. JSON-driven, WhatsApp-first. [Live demo](https://nextjs-luxury-yacht-template.vercel.app) |
-| [**nextjs-whatsapp-cta**](https://github.com/nazirabas/nextjs-whatsapp-cta) | Zero-dependency React components for WhatsApp CTAs with UTM tracking and GA4 click events. |
+| [**nextjs-whatsapp-cta**](https://github.com/nazirabas/nextjs-whatsapp-cta) | Zero-dependency React components for WhatsApp CTAs with UTM tracking and GA4 click events. [![npm](https://img.shields.io/npm/v/nextjs-whatsapp-cta?color=cb3837&label=npm)](https://www.npmjs.com/package/nextjs-whatsapp-cta) |
 | [**stripe-checkout-starter**](https://github.com/nazirabas/stripe-checkout-starter) | Next.js 14 + Stripe Checkout with server actions, success and cancel pages. [Live demo](https://stripe-checkout-starter.vercel.app) |
 | [**resend-transactional-emails-starter**](https://github.com/nazirabas/resend-transactional-emails-starter) | Next.js 14 + Resend + Zod contact form, notification and confirmation emails. [Live demo](https://resend-transactional-emails-starter.vercel.app) |
 | [**dev-notes**](https://github.com/nazirabas/dev-notes) | Daily engineering journal. Two-minute entries on what I built, learned and shipped. |
